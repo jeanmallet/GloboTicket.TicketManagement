@@ -1,1 +1,1 @@
-# ps-aspnetcore-architecture
+# Clean architecture sample with ASP.NET Core
